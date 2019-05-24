@@ -1,0 +1,658 @@
+30	ConceptAnalysis	2100000	Jiangen Industries AG	Rellinghauser Stra?e 1-11	45128 Essen	2018/11/8	2018/11/8
+30	InterpretationAnalysis	2200000	Jiangen Industries AG	Rellinghauser Stra?e 1-11	45128 Essen	2018/10/25	2018/10/29
+30	ComparativeAnalysis	400000	Jiangen Industries AG	Rellinghauser Stra?e 1-11	45128 Essen	2018/9/25	2018/9/26
+30	HistoricalAnalysis	400000	Jiangen Industries AG	Rellinghauser Stra?e 1-11	45128 Essen	2018/8/27	2018/8/28
+30	LiteratureAnalysis	900000	Jiangen Industries AG	Rellinghauser Stra?e 1-11	45128 Essen	2018/7/27	2018/7/31
+30	OralHistory	2100000	Jiangen Industries AG	Rellinghauser Stra?e 1-11	45128 Essen	2018/7/25	2018/7/26
+30	ConceptAnalysis	2400000	METALL NRW, Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2018/7/25	2018/7/26
+30	InterpretationAnalysis	3400000	METALL NRW, Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2018/7/2	2018/7/3
+30	ComparativeAnalysis	100000	METALL NRW, Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2018/7/2	2018/7/3
+30	HistoricalAnalysis	400000	METALL NRW, Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2018/6/26	2018/6/26
+30	CaseAnalysis	200000	METALL NRW, Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2018/6/4	2018/6/4
+30	LiteratureAnalysis	100000	METALL NRW, Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2018/5/22	2018/5/28
+30	OralHistory	1100000	METALL NRW, Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2018/5/7	2018/5/15
+30	ConceptAnalysis	3200000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium; Kulturbeh?rde	H. C. Andersens Boulevard 2	2018/5/9	2018/5/9
+30	InterpretationAnalysis	3100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium; Kulturbeh?rde	H. C. Andersens Boulevard 2	2018/3/26	2018/3/26
+30	ComparativeAnalysis	200000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium; Kulturbeh?rde	H. C. Andersens Boulevard 2	2018/1/25	2018/1/29
+30	BibliometricAnalysis	100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium; Kulturbeh?rde	H. C. Andersens Boulevard 2	2018/1/11	2018/1/11
+30	OralHistory	700000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium; Kulturbeh?rde	H. C. Andersens Boulevard 2	2017/12/28	2018/1/2
+30	RegressionAnalysis	100000	Herr Christian Lindner	F¨¹rstenplatz 14	40215 D¨¹sseldorf	2017/12/28	2018/1/2
+30	ModelingMethod	100000	Herr Christian Lindner	F¨¹rstenplatz 14	40215 D¨¹sseldorf	2017/12/28	2018/1/2
+30	ConceptAnalysis	1400000	Herr Christian Lindner	F¨¹rstenplatz 14	40215 D¨¹sseldorf	2017/12/27	2017/12/29
+30	InterpretationAnalysis	3000000	Herr Christian Lindner	F¨¹rstenplatz 14	40215 D¨¹sseldorf	2017/12/15	2017/12/20
+30	ComparativeAnalysis	100000	Herr Christian Lindner	F¨¹rstenplatz 14	40215 D¨¹sseldorf	2017/12/15	2017/12/20
+30	HistoricalAnalysis	300000	Herr Christian Lindner	F¨¹rstenplatz 14	40215 D¨¹sseldorf	2017/12/15	2017/12/18
+30	OralHistory	1600000	Herr Christian Lindner	F¨¹rstenplatz 14	40215 D¨¹sseldorf	2017/12/15	2017/12/18
+30	ModelingMethod	700000	Herr Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2017/11/14	2017/11/20
+30	ConceptAnalysis	2400000	Herr Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2017/11/13	2017/11/14
+30	InterpretationAnalysis	1700000	Herr Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2017/11/13	2017/11/14
+30	HistoricalAnalysis	200000	Herr Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2017/11/7	2017/11/7
+30	OralHistory	100000	Herr Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2017/10/11	2017/10/11
+30	ConceptAnalysis	2100000	Frau Susanne Klatten	Seedammweg 55	61352 Bad Homburg	2017/9/22	2017/9/28
+30	InterpretationAnalysis	4000000	Frau Susanne Klatten	Seedammweg 55	61352 Bad Homburg	2017/9/19	2017/9/20
+30	HistoricalAnalysis	900000	Frau Susanne Klatten	Seedammweg 55	61352 Bad Homburg	2017/9/18	2017/9/19
+30	LiteratureAnalysis	100000	Frau Susanne Klatten	Seedammweg 55	61352 Bad Homburg	2017/9/8	2017/9/18
+30	OralHistory	200000	Frau Susanne Klatten	Seedammweg 55	61352 Bad Homburg	2017/9/13	2017/9/15
+30	ConceptAnalysis	2800000	Herr Stefan Quandt	Seedammweg 55	61352 Bad Homburg	2017/9/5	2017/9/7
+30	InterpretationAnalysis	3400000	Herr Stefan Quandt	Seedammweg 55	61352 Bad Homburg	2017/8/11	2017/8/15
+30	ComparativeAnalysis	100000	Herr Stefan Quandt	Seedammweg 55	61352 Bad Homburg	2017/8/11	2017/8/14
+30	HistoricalAnalysis	100000	Herr Stefan Quandt	Seedammweg 55	61352 Bad Homburg	2017/8/10	2017/8/16
+30	CaseAnalysis	100000	Herr Stefan Quandt	Seedammweg 55	61352 Bad Homburg	2017/8/10	2017/8/11
+30	OralHistory	100000	Herr Stefan Quandt	Seedammweg 55	61352 Bad Homburg	2017/8/7	2017/8/8
+40	QuestionnaireSurvey	300000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium, Kulturbeh?rde	H.C. Andersens Boulevard 2	2017/7/26	2017/7/27
+40	Interview	100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium, Kulturbeh?rde	H.C. Andersens Boulevard 2	2017/7/26	2017/7/28
+40	ClusterAnalysis	100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium, Kulturbeh?rde	H.C. Andersens Boulevard 2	2017/7/25	2017/7/26
+40	FactorAnalysis	300000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium, Kulturbeh?rde	H.C. Andersens Boulevard 2	2017/7/12	2017/7/14
+40	AnalyticHierarchyProcess	100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium, Kulturbeh?rde	H.C. Andersens Boulevard 2	2017/7/5	2017/7/6
+40	ModelingMethod	1600000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium, Kulturbeh?rde	H.C. Andersens Boulevard 2	2017/7/3	2017/7/4
+40	Co-occurrenceAnalysis	100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium, Kulturbeh?rde	H.C. Andersens Boulevard 2	2017/7/3	2017/8/2
+40	ConceptAnalysis	2600000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium, Kulturbeh?rde	H.C. Andersens Boulevard 2	2017/6/30	2017/7/5
+40	InterpretationAnalysis	4000000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium, Kulturbeh?rde	H.C. Andersens Boulevard 2	2017/6/26	2017/6/29
+40	ComparativeAnalysis	300000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium, Kulturbeh?rde	H.C. Andersens Boulevard 2	2017/6/26	2017/6/29
+40	HistoricalAnalysis	200000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium, Kulturbeh?rde	H.C. Andersens Boulevard 2	2017/6/23	2017/6/26
+40	SocialNetworkAnalysis	100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium, Kulturbeh?rde	H.C. Andersens Boulevard 2	2017/6/23	2017/6/26
+40	OralHistory	100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium, Kulturbeh?rde	H.C. Andersens Boulevard 2	2017/6/22	2017/6/23
+40	QuestionnaireSurvey	700000	Herr Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2017/6/20	2017/6/21
+40	Interview	100000	Herr Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2017/6/14	2017/6/14
+40	DelphiMethod	100000	Herr Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2017/6/6	2017/6/8
+40	ExperimentResearch	400000	Herr Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2017/6/1	2017/6/6
+40	RegressionAnalysis	100000	Herr Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2017/5/29	2017/5/30
+40	CorrelationAnalysis	100000	Herr Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2017/5/23	2017/5/23
+40	TextAnalysis	300000	Herr Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2017/5/16	2017/5/16
+40	LogAnalysis	300000	Herr Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2017/5/4	2017/5/9
+40	GroundedTheory	100000	Herr Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2017/4/28	2017/5/3
+40	ConceptAnalysis	2000000	Herr Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2017/4/27	2017/5/2
+40	InterpretationAnalysis	3400000	Herr Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2017/4/10	2017/4/11
+40	ComparativeAnalysis	700000	Herr Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2017/4/7	2017/4/10
+40	HistoricalAnalysis	200000	Herr Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2017/3/30	2017/4/6
+40	CaseAnalysis	100000	Herr Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2017/3/20	2017/3/21
+40	BibliometricAnalysis	100000	Herr Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2017/3/17	2017/3/28
+40	ContentAnalysis	100000	Herr Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2017/3/8	2017/3/9
+40	SocialNetworkAnalysis	100000	Herr Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2017/3/2	2017/3/6
+40	ConceptAnalysis	1600000	Herr Andreas Zechmeister	Frankfurter Stra?e 33	63619 Bad Orb	2017/2/22	2017/2/23
+40	InterpretationAnalysis	2400000	Herr Andreas Zechmeister	Frankfurter Stra?e 33	63619 Bad Orb	2017/1/18	2017/1/30
+40	ComparativeAnalysis	200000	Herr Andreas Zechmeister	Frankfurter Stra?e 33	63619 Bad Orb	2017/1/13	2017/1/13
+40	HistoricalAnalysis	500000	Herr Andreas Zechmeister	Frankfurter Stra?e 33	63619 Bad Orb	2017/1/3	2017/1/12
+40	FuzzyComprehensiveEvaluation	100000	Herr Andreas Zechmeister	Frankfurter Stra?e 33	63619 Bad Orb	2016/12/29	2017/1/4
+40	OralHistory	800000	Herr Andreas Zechmeister	Frankfurter Stra?e 33	63619 Bad Orb	2016/12/16	2017/1/4
+40	QuestionnaireSurvey	100000	Daimler AG	70546 Stuttgart	None	2016/12/20	2016/12/21
+40	DelphiMethod	100000	Daimler AG	70546 Stuttgart	None	2016/12/16	2016/12/21
+40	ExperimentResearch	300000	Daimler AG	70546 Stuttgart	None	2016/12/16	2016/12/20
+40	RegressionAnalysis	200000	Daimler AG	70546 Stuttgart	None	2016/12/16	2016/12/19
+40	ClusterAnalysis	400000	Daimler AG	70546 Stuttgart	None	2016/12/16	2016/12/19
+40	FactorAnalysis	300000	Daimler AG	70546 Stuttgart	None	2016/12/16	2016/12/16
+40	PrincipalComponentAnalysis	100000	Daimler AG	70546 Stuttgart	None	2016/12/9	2016/12/15
+40	TextAnalysis	100000	Daimler AG	70546 Stuttgart	None	2016/11/25	2017/1/25
+40	ModelingMethod	600000	Daimler AG	70546 Stuttgart	None	2016/11/18	2016/11/22
+40	Co-occurrenceAnalysis	200000	Daimler AG	70546 Stuttgart	None	2016/11/9	2016/11/11
+40	ConceptAnalysis	2100000	Daimler AG	70546 Stuttgart	None	2016/11/4	2016/11/7
+40	InterpretationAnalysis	2200000	Daimler AG	70546 Stuttgart	None	2016/10/25	2016/10/27
+40	ComparativeAnalysis	600000	Daimler AG	70546 Stuttgart	None	2016/10/4	2016/10/6
+40	HistoricalAnalysis	400000	Daimler AG	70546 Stuttgart	None	2016/8/29	2016/9/1
+40	FuzzyComprehensiveEvaluation	100000	Daimler AG	70546 Stuttgart	None	2016/8/16	2016/8/19
+40	BibliometricAnalysis	100000	Daimler AG	70546 Stuttgart	None	2016/7/1	2016/7/4
+40	SocialNetworkAnalysis	200000	Daimler AG	70546 Stuttgart	None	2016/7/1	2016/7/4
+40	OralHistory	100000	Daimler AG	70546 Stuttgart	None	2016/7/4	2016/7/4
+40	ExperimentResearch	100000	Herr Dietmar B¨¹cher	Schl¨¹sselfertiges Bauen	Veitenm¨¹hlweg 2	2016/5/4	2016/5/9
+40	ModelingMethod	200000	Herr Dietmar B¨¹cher	Schl¨¹sselfertiges Bauen	Veitenm¨¹hlweg 2	2016/5/3	2016/5/9
+40	ConceptAnalysis	2200000	Herr Dietmar B¨¹cher	Schl¨¹sselfertiges Bauen	Veitenm¨¹hlweg 2	2016/4/4	2016/4/6
+40	InterpretationAnalysis	3000000	Herr Dietmar B¨¹cher	Schl¨¹sselfertiges Bauen	Veitenm¨¹hlweg 2	2016/2/23	2016/2/26
+40	ComparativeAnalysis	200000	Herr Dietmar B¨¹cher	Schl¨¹sselfertiges Bauen	Veitenm¨¹hlweg 2	2016/2/8	2016/2/18
+40	HistoricalAnalysis	300000	Herr Dietmar B¨¹cher	Schl¨¹sselfertiges Bauen	Veitenm¨¹hlweg 2	2016/1/29	2016/1/29
+40	CaseAnalysis	200000	Herr Dietmar B¨¹cher	Schl¨¹sselfertiges Bauen	Veitenm¨¹hlweg 2	2016/1/5	2016/1/8
+40	LiteratureAnalysis	300000	Herr Dietmar B¨¹cher	Schl¨¹sselfertiges Bauen	Veitenm¨¹hlweg 2	2016/1/4	2016/1/5
+40	OralHistory	400000	Herr Dietmar B¨¹cher	Schl¨¹sselfertiges Bauen	Veitenm¨¹hlweg 2	2015/12/21	2015/12/22
+40	ExperimentResearch	100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium,?Kulturbeh?rde	H.C. Andersens Boulevard 2	2015/12/18	2015/12/21
+40	ClusterAnalysis	100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium,?Kulturbeh?rde	H.C. Andersens Boulevard 2	2015/12/11	2015/12/16
+40	FactorAnalysis	200000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium,?Kulturbeh?rde	H.C. Andersens Boulevard 2	2015/12/11	2015/12/15
+40	PrincipalComponentAnalysis	200000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium,?Kulturbeh?rde	H.C. Andersens Boulevard 2	2015/12/11	2015/12/11
+40	AnalyticHierarchyProcess	200000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium,?Kulturbeh?rde	H.C. Andersens Boulevard 2	2015/11/24	2015/11/25
+40	CorrelationAnalysis	200000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium,?Kulturbeh?rde	H.C. Andersens Boulevard 2	2015/11/10	2015/11/11
+40	TextAnalysis	100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium,?Kulturbeh?rde	H.C. Andersens Boulevard 2	2015/10/22	2015/10/26
+40	ModelingMethod	400000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium,?Kulturbeh?rde	H.C. Andersens Boulevard 2	2015/10/6	2015/10/8
+40	Co-occurrenceAnalysis	300000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium,?Kulturbeh?rde	H.C. Andersens Boulevard 2	2015/10/6	2015/10/7
+40	ConceptAnalysis	2000000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium,?Kulturbeh?rde	H.C. Andersens Boulevard 2	2015/9/28	2015/9/30
+40	InterpretationAnalysis	1700000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium,?Kulturbeh?rde	H.C. Andersens Boulevard 2	2015/7/1	2015/7/3
+40	ComparativeAnalysis	500000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium,?Kulturbeh?rde	H.C. Andersens Boulevard 2	2015/6/12	2015/6/16
+40	HistoricalAnalysis	300000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium,?Kulturbeh?rde	H.C. Andersens Boulevard 2	2015/5/14	2015/5/18
+40	FuzzyComprehensiveEvaluation	300000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium,?Kulturbeh?rde	H.C. Andersens Boulevard 2	2015/5/14	2015/5/15
+40	BibliometricAnalysis	1200000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium,?Kulturbeh?rde	H.C. Andersens Boulevard 2	2014/12/18	2014/12/19
+40	LiteratureAnalysis	700000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium,?Kulturbeh?rde	H.C. Andersens Boulevard 2	2014/12/18	2014/12/19
+40	SocialNetworkAnalysis	400000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/ Kulturministerium,?Kulturbeh?rde	H.C. Andersens Boulevard 2	2014/12/18	2014/12/18
+40	QuestionnaireSurvey	100000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Stra?e 5	80333 M¨¹nchen	2014/12/18	2014/12/18
+40	ExperimentResearch	200000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Stra?e 5	80333 M¨¹nchen	2014/12/17	2014/12/19
+40	AnalyticHierarchyProcess	300000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Stra?e 5	80333 M¨¹nchen	2014/11/28	2014/12/4
+40	TextAnalysis	100000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Stra?e 5	80333 M¨¹nchen	2014/11/13	2014/11/14
+40	ModelingMethod	400000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Stra?e 5	80333 M¨¹nchen	2014/9/24	2014/9/30
+40	ConceptAnalysis	2400000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Stra?e 5	80333 M¨¹nchen	2014/9/24	2014/9/24
+40	InterpretationAnalysis	2700000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Stra?e 5	80333 M¨¹nchen	2014/9/2	2014/9/5
+40	ComparativeAnalysis	400000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Stra?e 5	80333 M¨¹nchen	2014/4/23	2014/4/24
+40	HistoricalAnalysis	100000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Stra?e 5	80333 M¨¹nchen	2014/4/22	2014/4/23
+40	CaseAnalysis	200000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Stra?e 5	80333 M¨¹nchen	2014/2/25	2014/2/26
+40	FuzzyComprehensiveEvaluation	100000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Stra?e 5	80333 M¨¹nchen	2013/12/20	2013/12/20
+40	BibliometricAnalysis	200000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Stra?e 5	80333 M¨¹nchen	2013/12/20	2013/12/20
+40	LiteratureAnalysis	100000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Stra?e 5	80333 M¨¹nchen	2013/12/17	2013/12/18
+40	SocialNetworkAnalysis	200000	Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)	Max-Joseph-Stra?e 5	80333 M¨¹nchen	2013/11/15	2013/11/18
+40	QuestionnaireSurvey	100000	S¨¹dwestmetall, Verband der Metall- und Elektroindustrie Baden- W¨¹rttemberg e.V.	L?ffelstra?e 22-24	70597 Stuttgart	2013/10/16	2013/10/23
+40	Interview	100000	S¨¹dwestmetall, Verband der Metall- und Elektroindustrie Baden- W¨¹rttemberg e.V.	L?ffelstra?e 22-24	70597 Stuttgart	2013/10/15	2013/10/17
+40	ExperimentResearch	800000	S¨¹dwestmetall, Verband der Metall- und Elektroindustrie Baden- W¨¹rttemberg e.V.	L?ffelstra?e 22-24	70597 Stuttgart	2013/10/9	2013/10/23
+40	ClusterAnalysis	600000	S¨¹dwestmetall, Verband der Metall- und Elektroindustrie Baden- W¨¹rttemberg e.V.	L?ffelstra?e 22-24	70597 Stuttgart	2013/10/9	2013/10/23
+40	AnalyticHierarchyProcess	300000	S¨¹dwestmetall, Verband der Metall- und Elektroindustrie Baden- W¨¹rttemberg e.V.	L?ffelstra?e 22-24	70597 Stuttgart	2013/10/9	2013/10/23
+40	TextAnalysis	600000	S¨¹dwestmetall, Verband der Metall- und Elektroindustrie Baden- W¨¹rttemberg e.V.	L?ffelstra?e 22-24	70597 Stuttgart	2013/10/9	2013/10/10
+40	MachineLearning	500000	S¨¹dwestmetall, Verband der Metall- und Elektroindustrie Baden- W¨¹rttemberg e.V.	L?ffelstra?e 22-24	70597 Stuttgart	2013/10/9	2013/10/10
+40	ModelingMethod	1500000	S¨¹dwestmetall, Verband der Metall- und Elektroindustrie Baden- W¨¹rttemberg e.V.	L?ffelstra?e 22-24	70597 Stuttgart	2013/10/9	2013/10/10
+40	ConceptAnalysis	1400000	S¨¹dwestmetall, Verband der Metall- und Elektroindustrie Baden- W¨¹rttemberg e.V.	L?ffelstra?e 22-24	70597 Stuttgart	2013/8/19	2013/8/23
+40	InterpretationAnalysis	2700000	S¨¹dwestmetall, Verband der Metall- und Elektroindustrie Baden- W¨¹rttemberg e.V.	L?ffelstra?e 22-24	70597 Stuttgart	2013/8/19	2013/8/23
+40	ComparativeAnalysis	100000	S¨¹dwestmetall, Verband der Metall- und Elektroindustrie Baden- W¨¹rttemberg e.V.	L?ffelstra?e 22-24	70597 Stuttgart	2013/8/6	2013/8/15
+40	HistoricalAnalysis	200000	S¨¹dwestmetall, Verband der Metall- und Elektroindustrie Baden- W¨¹rttemberg e.V.	L?ffelstra?e 22-24	70597 Stuttgart	2013/7/26	2013/8/8
+40	LiteratureAnalysis	100000	S¨¹dwestmetall, Verband der Metall- und Elektroindustrie Baden- W¨¹rttemberg e.V.	L?ffelstra?e 22-24	70597 Stuttgart	2013/7/25	2013/7/29
+40	SocialNetworkAnalysis	300000	S¨¹dwestmetall, Verband der Metall- und Elektroindustrie Baden- W¨¹rttemberg e.V.	L?ffelstra?e 22-24	70597 Stuttgart	2013/7/25	2013/7/29
+50	ModelingMethod	600000	Herr Wolfgang G?ller	K?rnerstra?e 8	45772 Marl	2013/7/18	2013/7/25
+50	ConceptAnalysis	1700000	Herr Wolfgang G?ller	K?rnerstra?e 8	45772 Marl	2013/7/9	2013/7/11
+50	InterpretationAnalysis	2500000	Herr Wolfgang G?ller	K?rnerstra?e 8	45772 Marl	2013/7/4	2013/7/11
+50	ComparativeAnalysis	800000	Herr Wolfgang G?ller	K?rnerstra?e 8	45772 Marl	2013/7/4	2013/7/11
+50	CaseAnalysis	100000	Herr Wolfgang G?ller	K?rnerstra?e 8	45772 Marl	2013/6/27	2013/8/29
+50	BibliometricAnalysis	100000	Herr Wolfgang G?ller	K?rnerstra?e 8	45772 Marl	2013/6/27	2013/6/28
+50	CitationAnalysis	100000	Herr Wolfgang G?ller	K?rnerstra?e 8	45772 Marl	2013/6/10	2013/6/13
+50	LiteratureAnalysis	400000	Herr Wolfgang G?ller	K?rnerstra?e 8	45772 Marl	2013/6/6	2013/7/1
+50	SocialNetworkAnalysis	400000	Herr Wolfgang G?ller	K?rnerstra?e 8	45772 Marl	2013/6/6	2013/7/1
+50	QuestionnaireSurvey	200000	Jiangen Industries AG	Rellinghauser Stra?e 1 - 11	45128 Essen	2013/4/30	2013/4/30
+50	DelphiMethod	100000	Jiangen Industries AG	Rellinghauser Stra?e 1 - 11	45128 Essen	2013/4/26	2013/4/26
+50	ExperimentResearch	600000	Jiangen Industries AG	Rellinghauser Stra?e 1 - 11	45128 Essen	2013/3/5	2013/3/5
+50	AnalyticHierarchyProcess	100000	Jiangen Industries AG	Rellinghauser Stra?e 1 - 11	45128 Essen	2013/3/4	2013/3/4
+50	ModelingMethod	300000	Jiangen Industries AG	Rellinghauser Stra?e 1 - 11	45128 Essen	2013/2/19	2013/2/19
+50	ConceptAnalysis	2200000	Jiangen Industries AG	Rellinghauser Stra?e 1 - 11	45128 Essen	2012/12/27	2013/1/7
+50	InterpretationAnalysis	2500000	Jiangen Industries AG	Rellinghauser Stra?e 1 - 11	45128 Essen	2012/12/14	2012/12/17
+50	ComparativeAnalysis	200000	Jiangen Industries AG	Rellinghauser Stra?e 1 - 11	45128 Essen	2012/10/29	2012/11/1
+50	LiteratureAnalysis	300000	Jiangen Industries AG	Rellinghauser Stra?e 1 - 11	45128 Essen	2012/9/5	2012/9/6
+50	PatentAnalysis	100000	Jiangen Industries AG	Rellinghauser Stra?e 1 - 11	45128 Essen	2012/9/4	2012/9/5
+50	ExperimentResearch	100000	Frau Ibeth Biermann	Niederr?der Landstra?e 34	60528 Frankfurt am Main	2012/5/16	2012/5/22
+50	ModelingMethod	100000	Frau Ibeth Biermann	Niederr?der Landstra?e 34	60528 Frankfurt am Main	2012/5/16	2012/5/18
+50	ConceptAnalysis	1200000	Frau Ibeth Biermann	Niederr?der Landstra?e 34	60528 Frankfurt am Main	2012/3/6	2012/3/7
+50	InterpretationAnalysis	2200000	Frau Ibeth Biermann	Niederr?der Landstra?e 34	60528 Frankfurt am Main	2012/3/5	2012/3/5
+50	ComparativeAnalysis	800000	Frau Ibeth Biermann	Niederr?der Landstra?e 34	60528 Frankfurt am Main	2012/1/1	2009/5/7
+50	HistoricalAnalysis	400000	Frau Ibeth Biermann	Niederr?der Landstra?e 34	60528 Frankfurt am Main	2011/12/29	2011/12/30
+50	CaseAnalysis	800000	Frau Ibeth Biermann	Niederr?der Landstra?e 34	60528 Frankfurt am Main	2011/12/28	2011/12/30
+50	FuzzyComprehensiveEvaluation	200000	Frau Ibeth Biermann	Niederr?der Landstra?e 34	60528 Frankfurt am Main	2011/12/22	2011/12/23
+50	LiteratureAnalysis	700000	Frau Ibeth Biermann	Niederr?der Landstra?e 34	60528 Frankfurt am Main	2011/12/21	2011/12/23
+50	OralHistory	200000	Frau Ibeth Biermann	Niederr?der Landstra?e 34	60528 Frankfurt am Main	2011/10/7	2011/10/11
+50	AnalyticHierarchyProcess	100000	Herr Prof. Hans Georg N?der	Am Weinberg 2	37115 Duderstadt	2011/8/31	2011/9/2
+50	ConceptAnalysis	1100000	Herr Prof. Hans Georg N?der	Am Weinberg 2	37115 Duderstadt	2011/8/10	2011/8/10
+50	InterpretationAnalysis	3100000	Herr Prof. Hans Georg N?der	Am Weinberg 2	37115 Duderstadt	2011/7/1	2011/7/1
+50	ComparativeAnalysis	100000	Herr Prof. Hans Georg N?der	Am Weinberg 2	37115 Duderstadt	2011/7/1	2011/7/4
+50	CaseAnalysis	300000	Herr Prof. Hans Georg N?der	Am Weinberg 2	37115 Duderstadt	2011/6/30	2011/7/1
+50	LiteratureAnalysis	300000	Herr Prof. Hans Georg N?der	Am Weinberg 2	37115 Duderstadt	2011/3/4	2011/3/10
+50	OralHistory	800000	Herr Prof. Hans Georg N?der	Am Weinberg 2	37115 Duderstadt	2011/2/23	2011/2/23
+50	ExperimentResearch	200000	Herr Andreas Lapp	Rosentalstra?e 56	70563 Stuttgart	2010/12/23	2011/1/6
+50	ModelingMethod	1200000	Herr Andreas Lapp	Rosentalstra?e 56	70563 Stuttgart	2010/12/23	2010/12/28
+50	ConceptAnalysis	800000	Herr Andreas Lapp	Rosentalstra?e 56	70563 Stuttgart	2010/12/7	2010/12/8
+50	InterpretationAnalysis	1900000	Herr Andreas Lapp	Rosentalstra?e 56	70563 Stuttgart	2010/12/6	2010/12/7
+50	ComparativeAnalysis	100000	Herr Andreas Lapp	Rosentalstra?e 56	70563 Stuttgart	2010/11/9	2010/11/10
+50	CaseAnalysis	100000	Herr Andreas Lapp	Rosentalstra?e 56	70563 Stuttgart	2010/11/5	2010/11/8
+50	FuzzyComprehensiveEvaluation	400000	Herr Andreas Lapp	Rosentalstra?e 56	70563 Stuttgart	2010/10/27	2010/10/29
+50	BibliometricAnalysis	200000	Herr Andreas Lapp	Rosentalstra?e 56	70563 Stuttgart	2010/10/20	2010/10/25
+50	CitationAnalysis	400000	Herr Andreas Lapp	Rosentalstra?e 56	70563 Stuttgart	2010/9/15	2010/9/29
+50	ContentAnalysis	100000	Herr Andreas Lapp	Rosentalstra?e 56	70563 Stuttgart	2010/8/17	2010/8/18
+50	LiteratureAnalysis	300000	Herr Andreas Lapp	Rosentalstra?e 56	70563 Stuttgart	2010/8/12	2010/8/16
+50	SocialNetworkAnalysis	100000	Herr Andreas Lapp	Rosentalstra?e 56	70563 Stuttgart	2010/8/11	2010/8/12
+50	TextAnalysis	100000	Herr Jochen Wermuth	Johannisstra?e 3	10117 Berlin	2010/8/10	2010/8/12
+50	ConceptAnalysis	900000	Herr Jochen Wermuth	Johannisstra?e 3	10117 Berlin	2010/8/5	2010/8/27
+50	InterpretationAnalysis	3300000	Herr Jochen Wermuth	Johannisstra?e 3	10117 Berlin	2010/7/8	2010/7/13
+50	ComparativeAnalysis	400000	Herr Jochen Wermuth	Johannisstra?e 3	10117 Berlin	2010/7/6	2010/7/12
+50	HistoricalAnalysis	100000	Herr Jochen Wermuth	Johannisstra?e 3	10117 Berlin	2010/5/27	2010/6/3
+50	CaseAnalysis	200000	Herr Jochen Wermuth	Johannisstra?e 3	10117 Berlin	2010/5/21	2010/6/2
+50	SocialNetworkAnalysis	100000	Herr Jochen Wermuth	Johannisstra?e 3	10117 Berlin	2010/5/11	2010/5/17
+50	OralHistory	700000	Herr Jochen Wermuth	Johannisstra?e 3	10117 Berlin	2010/5/10	2010/5/12
+50	QuestionnaireSurvey	200000	Herr Prof. Dr. Hans Georg N?der	Am Weinberg 2	37115 Duderstadt	2010/4/12	2010/4/19
+50	ConceptAnalysis	1200000	Herr Prof. Dr. Hans Georg N?der	Am Weinberg 2	37115 Duderstadt	2010/2/26	2010/2/26
+50	InterpretationAnalysis	2800000	Herr Prof. Dr. Hans Georg N?der	Am Weinberg 2	37115 Duderstadt	2010/2/25	2010/2/25
+50	ComparativeAnalysis	300000	Herr Prof. Dr. Hans Georg N?der	Am Weinberg 2	37115 Duderstadt	2010/2/24	2010/2/25
+50	HistoricalAnalysis	500000	Herr Prof. Dr. Hans Georg N?der	Am Weinberg 2	37115 Duderstadt	2010/2/10	2010/2/12
+50	CaseAnalysis	300000	Herr Prof. Dr. Hans Georg N?der	Am Weinberg 2	37115 Duderstadt	2010/2/10	
+50	LiteratureAnalysis	600000	Herr Prof. Dr. Hans Georg N?der	Am Weinberg 2	37115 Duderstadt	2009/12/28	2009/12/29
+50	OralHistory	800000	Herr Prof. Dr. Hans Georg N?der	Am Weinberg 2	37115 Duderstadt	2009/10/13	2009/10/19
+50	QuestionnaireSurvey	700000	Herr Dr. Leo Plank	Maximilianstra?e 11	80539 M¨¹nchen	2009/10/1	2009/10/2
+50	ExperimentResearch	100000	Herr Dr. Leo Plank	Maximilianstra?e 11	80539 M¨¹nchen	2009/10/1	2009/10/2
+50	ModelingMethod	300000	Herr Dr. Leo Plank	Maximilianstra?e 11	80539 M¨¹nchen	2009/10/1	2009/10/2
+50	ConceptAnalysis	1600000	Herr Dr. Leo Plank	Maximilianstra?e 11	80539 M¨¹nchen	2009/9/22	2009/9/24
+50	InterpretationAnalysis	2700000	Herr Dr. Leo Plank	Maximilianstra?e 11	80539 M¨¹nchen	2009/9/9	2009/9/14
+50	ComparativeAnalysis	200000	Herr Dr. Leo Plank	Maximilianstra?e 11	80539 M¨¹nchen	2009/8/11	2009/8/18
+50	HistoricalAnalysis	100000	Herr Dr. Leo Plank	Maximilianstra?e 11	80539 M¨¹nchen	2009/8/11	2009/8/18
+50	CaseAnalysis	200000	Herr Dr. Leo Plank	Maximilianstra?e 11	80539 M¨¹nchen	2009/8/6	2009/8/7
+50	FuzzyComprehensiveEvaluation	100000	Herr Dr. Leo Plank	Maximilianstra?e 11	80539 M¨¹nchen	2009/8/6	2009/8/7
+50	BibliometricAnalysis	100000	Herr Dr. Leo Plank	Maximilianstra?e 11	80539 M¨¹nchen	2009/8/5	2009/8/5
+50	LiteratureAnalysis	200000	Herr Dr. Leo Plank	Maximilianstra?e 11	80539 M¨¹nchen	2009/8/5	2009/8/6
+50	OralHistory	500000	Herr Dr. Leo Plank	Maximilianstra?e 11	80539 M¨¹nchen	2009/8/4	2009/8/7
+50	Interview	100000	Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2009/8/4	2009/8/5
+50	LinkAnalysis	100000	Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2009/8/3	2009/8/4
+50	ExperimentResearch	100000	Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2009/7/31	2009/8/3
+50	AnalyticHierarchyProcess	100000	Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2009/7/30	2009/7/31
+50	ModelingMethod	200000	Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2009/7/29	2009/7/30
+50	ConceptAnalysis	2000000	Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2009/7/13	2009/8/11
+50	InterpretationAnalysis	2800000	Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2009/7/10	2009/7/15
+50	ComparativeAnalysis	100000	Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2009/7/8	2009/7/8
+50	CaseAnalysis	100000	Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2009/7/7	2009/7/9
+50	BibliometricAnalysis	100000	Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2009/7/3	2009/7/6
+50	OralHistory	400000	Klaus Groth	Kurf¨¹rstendamm 63	10707 Berlin	2009/7/1	2009/7/2
+61	QuestionnaireSurvey	200000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2,	1553 K?benhavn V.	2009/6/30	2009/7/6
+61	DelphiMethod	100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2,	1553 K?benhavn V.	2009/6/30	2009/7/6
+61	ExperimentResearch	200000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2,	1553 K?benhavn V.	2009/6/27	2009/7/9
+61	AnalyticHierarchyProcess	300000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2,	1553 K?benhavn V.	2009/6/23	2009/6/25
+61	ModelingMethod	400000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2,	1553 K?benhavn V.	2009/6/22	2009/6/25
+61	ConceptAnalysis	2100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2,	1553 K?benhavn V.	2009/6/10	2009/6/15
+61	InterpretationAnalysis	3100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2,	1553 K?benhavn V.	2009/6/3	2009/6/5
+61	ComparativeAnalysis	200000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2,	1553 K?benhavn V.	2009/6/2	2009/6/3
+61	CaseAnalysis	200000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2,	1553 K?benhavn V.	2009/4/16	2009/4/24
+61	FuzzyComprehensiveEvaluation	200000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2,	1553 K?benhavn V.	2009/4/14	2009/4/20
+61	ContentAnalysis	100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2,	1553 K?benhavn V.	2009/4/9	2009/4/15
+61	LiteratureAnalysis	200000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2,	1553 K?benhavn V.	2009/3/20	2009/3/24
+61	SocialNetworkAnalysis	100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2,	1553 K?benhavn V.	2009/3/3	2009/3/5
+61	PatentAnalysis	100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2,	1553 K?benhavn V.	2009/2/23	2009/2/24
+61	OralHistory	100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2,	1553 K?benhavn V.	2009/2/20	2009/2/23
+61	ExperimentResearch	200000	Verband der Chemischen Industrie e. V. (VCI)	Mainzer Landstra?e 55	60329 Frankfurt am Main	2009/2/18	2009/2/19
+61	AnalyticHierarchyProcess	100000	Verband der Chemischen Industrie e. V. (VCI)	Mainzer Landstra?e 55	60329 Frankfurt am Main	2009/2/16	2009/2/26
+61	ModelingMethod	100000	Verband der Chemischen Industrie e. V. (VCI)	Mainzer Landstra?e 55	60329 Frankfurt am Main	2009/1/28	2009/1/28
+61	Co-occurrenceAnalysis	100000	Verband der Chemischen Industrie e. V. (VCI)	Mainzer Landstra?e 55	60329 Frankfurt am Main	2009/1/27	2009/1/28
+61	ConceptAnalysis	1000000	Verband der Chemischen Industrie e. V. (VCI)	Mainzer Landstra?e 55	60329 Frankfurt am Main	2009/1/13	2009/1/14
+61	InterpretationAnalysis	1200000	Verband der Chemischen Industrie e. V. (VCI)	Mainzer Landstra?e 55	60329 Frankfurt am Main	2008/12/19	2008/12/30
+61	ComparativeAnalysis	400000	Verband der Chemischen Industrie e. V. (VCI)	Mainzer Landstra?e 55	60329 Frankfurt am Main	2008/12/18	2009/1/13
+61	CaseAnalysis	100000	Verband der Chemischen Industrie e. V. (VCI)	Mainzer Landstra?e 55	60329 Frankfurt am Main	2008/12/15	2008/12/17
+61	CitationAnalysis	100000	Verband der Chemischen Industrie e. V. (VCI)	Mainzer Landstra?e 55	60329 Frankfurt am Main	2008/12/10	2008/12/11
+61	ContentAnalysis	100000	Verband der Chemischen Industrie e. V. (VCI)	Mainzer Landstra?e 55	60329 Frankfurt am Main	2008/12/8	2008/12/10
+61	LiteratureAnalysis	500000	Verband der Chemischen Industrie e. V. (VCI)	Mainzer Landstra?e 55	60329 Frankfurt am Main	2008/12/5	2008/12/11
+61	SocialNetworkAnalysis	100000	Verband der Chemischen Industrie e. V. (VCI)	Mainzer Landstra?e 55	60329 Frankfurt am Main	2008/11/19	2008/11/28
+61	OralHistory	200000	Verband der Chemischen Industrie e. V. (VCI)	Mainzer Landstra?e 55	60329 Frankfurt am Main	2008/10/29	2008/10/31
+61	QuestionnaireSurvey	100000	Verena Pausder	Rheinsberger Stra?e 32	10435 Berlin	2008/10/15	2008/10/20
+61	LinkAnalysis	100000	Verena Pausder	Rheinsberger Stra?e 32	10435 Berlin	2008/10/10	2008/10/21
+61	ExperimentResearch	100000	Verena Pausder	Rheinsberger Stra?e 32	10435 Berlin	2008/10/6	2008/10/8
+61	RegressionAnalysis	100000	Verena Pausder	Rheinsberger Stra?e 32	10435 Berlin	2008/9/23	2008/10/6
+61	AnalyticHierarchyProcess	500000	Verena Pausder	Rheinsberger Stra?e 32	10435 Berlin	2008/9/22	2008/9/26
+61	ModelingMethod	200000	Verena Pausder	Rheinsberger Stra?e 32	10435 Berlin	2008/9/22	2008/9/26
+61	ConceptAnalysis	1000000	Verena Pausder	Rheinsberger Stra?e 32	10435 Berlin	2008/8/5	2008/8/5
+61	InterpretationAnalysis	2800000	Verena Pausder	Rheinsberger Stra?e 32	10435 Berlin	2008/8/1	2008/8/5
+61	ComparativeAnalysis	200000	Verena Pausder	Rheinsberger Stra?e 32	10435 Berlin	2008/7/30	2008/8/12
+61	CaseAnalysis	500000	Verena Pausder	Rheinsberger Stra?e 32	10435 Berlin	2008/7/15	2008/7/16
+61	FuzzyComprehensiveEvaluation	600000	Verena Pausder	Rheinsberger Stra?e 32	10435 Berlin	2008/7/15	2008/7/16
+61	BibliometricAnalysis	100000	Verena Pausder	Rheinsberger Stra?e 32	10435 Berlin	2008/7/15	2008/7/18
+61	ContentAnalysis	100000	Verena Pausder	Rheinsberger Stra?e 32	10435 Berlin	2008/7/14	2008/7/17
+61	LiteratureAnalysis	300000	Verena Pausder	Rheinsberger Stra?e 32	10435 Berlin	2008/6/24	2008/7/10
+61	PatentAnalysis	100000	Verena Pausder	Rheinsberger Stra?e 32	10435 Berlin	2008/6/17	2008/6/18
+61	OralHistory	100000	Verena Pausder	Rheinsberger Stra?e 32	10435 Berlin	2008/6/17	2008/6/19
+61	QuestionnaireSurvey	300000	Ralf Pollmeier	Pferdsdorfer Weg 6	99831 Creuzburg	2008/5/30	2008/6/20
+61	Interview	100000	Ralf Pollmeier	Pferdsdorfer Weg 6	99831 Creuzburg	2008/5/20	2008/6/20
+61	ExperimentResearch	200000	Ralf Pollmeier	Pferdsdorfer Weg 6	99831 Creuzburg	2008/5/20	2008/5/20
+61	AnalyticHierarchyProcess	300000	Ralf Pollmeier	Pferdsdorfer Weg 6	99831 Creuzburg	2008/4/4	2008/4/9
+61	ModelingMethod	400000	Ralf Pollmeier	Pferdsdorfer Weg 6	99831 Creuzburg	2008/4/2	2008/4/4
+61	ConceptAnalysis	1300000	Ralf Pollmeier	Pferdsdorfer Weg 6	99831 Creuzburg	2008/3/25	2008/3/28
+61	InterpretationAnalysis	2800000	Ralf Pollmeier	Pferdsdorfer Weg 6	99831 Creuzburg	2008/3/20	2008/3/26
+61	ComparativeAnalysis	600000	Ralf Pollmeier	Pferdsdorfer Weg 6	99831 Creuzburg	2008/2/26	2008/2/27
+61	CaseAnalysis	300000	Ralf Pollmeier	Pferdsdorfer Weg 6	99831 Creuzburg	2008/2/21	2008/2/22
+61	FuzzyComprehensiveEvaluation	400000	Ralf Pollmeier	Pferdsdorfer Weg 6	99831 Creuzburg	2008/2/14	2008/2/25
+61	LiteratureAnalysis	100000	Ralf Pollmeier	Pferdsdorfer Weg 6	99831 Creuzburg	2008/2/1	2008/2/11
+61	OralHistory	100000	Ralf Pollmeier	Pferdsdorfer Weg 6	99831 Creuzburg	2008/1/31	2008/2/8
+61	ExperimentResearch	300000	FKH Beteiligungs SE	Kardinal-Faulhaber-Stra?e 14	80333 M¨¹nchen	2008/1/28	2008/1/29
+61	RegressionAnalysis	100000	FKH Beteiligungs SE	Kardinal-Faulhaber-Stra?e 14	80333 M¨¹nchen	2008/1/28	2008/1/29
+61	ClusterAnalysis	200000	FKH Beteiligungs SE	Kardinal-Faulhaber-Stra?e 14	80333 M¨¹nchen	2008/1/28	2008/1/29
+61	CorrelationAnalysis	100000	FKH Beteiligungs SE	Kardinal-Faulhaber-Stra?e 14	80333 M¨¹nchen	2008/1/21	2008/1/23
+61	ModelingMethod	600000	FKH Beteiligungs SE	Kardinal-Faulhaber-Stra?e 14	80333 M¨¹nchen	2008/1/18	2008/1/22
+61	Co-occurrenceAnalysis	200000	FKH Beteiligungs SE	Kardinal-Faulhaber-Stra?e 14	80333 M¨¹nchen	2008/1/10	2008/1/16
+61	ConceptAnalysis	1900000	FKH Beteiligungs SE	Kardinal-Faulhaber-Stra?e 14	80333 M¨¹nchen	2007/12/28	2008/1/9
+61	InterpretationAnalysis	3000000	FKH Beteiligungs SE	Kardinal-Faulhaber-Stra?e 14	80333 M¨¹nchen	2007/12/21	2007/12/27
+61	ComparativeAnalysis	200000	FKH Beteiligungs SE	Kardinal-Faulhaber-Stra?e 14	80333 M¨¹nchen	2007/12/21	2007/12/27
+61	CaseAnalysis	100000	FKH Beteiligungs SE	Kardinal-Faulhaber-Stra?e 14	80333 M¨¹nchen	2007/12/6	2007/12/17
+61	BibliometricAnalysis	200000	FKH Beteiligungs SE	Kardinal-Faulhaber-Stra?e 14	80333 M¨¹nchen	2007/11/15	2007/11/19
+61	CitationAnalysis	100000	FKH Beteiligungs SE	Kardinal-Faulhaber-Stra?e 14	80333 M¨¹nchen	2007/10/30	2007/11/30
+61	OralHistory	100000	FKH Beteiligungs SE	Kardinal-Faulhaber-Stra?e 14	80333 M¨¹nchen	2007/10/22	2007/10/24
+61	Interview	100000	Droege Group AG	Poststra?e 5-6	40213 D¨¹sseldorf	2007/10/18	2007/10/22
+61	ClusterAnalysis	100000	Droege Group AG	Poststra?e 5-6	40213 D¨¹sseldorf	2007/10/8	2007/11/30
+61	AnalyticHierarchyProcess	100000	Droege Group AG	Poststra?e 5-6	40213 D¨¹sseldorf	2007/9/25	2007/10/31
+61	ModelingMethod	100000	Droege Group AG	Poststra?e 5-6	40213 D¨¹sseldorf	2007/8/23	2008/2/14
+61	GroundedTheory	100000	Droege Group AG	Poststra?e 5-6	40213 D¨¹sseldorf	2007/8/10	2007/8/10
+61	ConceptAnalysis	1600000	Droege Group AG	Poststra?e 5-6	40213 D¨¹sseldorf	2007/7/18	2007/7/20
+61	InterpretationAnalysis	3100000	Droege Group AG	Poststra?e 5-6	40213 D¨¹sseldorf	2007/7/18	2007/7/20
+61	ComparativeAnalysis	100000	Droege Group AG	Poststra?e 5-6	40213 D¨¹sseldorf	2007/7/17	2007/7/20
+61	HistoricalAnalysis	100000	Droege Group AG	Poststra?e 5-6	40213 D¨¹sseldorf	2007/7/11	2007/7/16
+61	CaseAnalysis	600000	Droege Group AG	Poststra?e 5-6	40213 D¨¹sseldorf	2007/6/5	2007/6/5
+61	CitationAnalysis	100000	Droege Group AG	Poststra?e 5-6	40213 D¨¹sseldorf	2007/5/31	2007/8/7
+61	ContentAnalysis	100000	Droege Group AG	Poststra?e 5-6	40213 D¨¹sseldorf	2007/5/29	2007/5/31
+61	LiteratureAnalysis	500000	Droege Group AG	Poststra?e 5-6	40213 D¨¹sseldorf	2007/5/25	2007/5/30
+61	OralHistory	300000	Droege Group AG	Poststra?e 5-6	40213 D¨¹sseldorf	2007/5/18	2007/5/22
+61	QuestionnaireSurvey	300000	Herr Lars Dittrich	Schl¨¹terstra?e 40	10707 Berlin	2007/3/12	2007/3/19
+61	BrainStorming	100000	Herr Lars Dittrich	Schl¨¹terstra?e 40	10707 Berlin	2007/2/27	2007/3/5
+61	ExperimentResearch	100000	Herr Lars Dittrich	Schl¨¹terstra?e 40	10707 Berlin	2007/2/8	2007/8/7
+61	ClusterAnalysis	100000	Herr Lars Dittrich	Schl¨¹terstra?e 40	10707 Berlin	2007/2/1	2007/2/2
+61	AnalyticHierarchyProcess	300000	Herr Lars Dittrich	Schl¨¹terstra?e 40	10707 Berlin	2006/12/31	2007/2/6
+61	TextAnalysis	200000	Herr Lars Dittrich	Schl¨¹terstra?e 40	10707 Berlin	2006/12/31	2007/2/22
+61	Co-occurrenceAnalysis	100000	Herr Lars Dittrich	Schl¨¹terstra?e 40	10707 Berlin	2006/12/21	2007/2/1
+61	GroundedTheory	100000	Herr Lars Dittrich	Schl¨¹terstra?e 40	10707 Berlin	2006/12/8	2006/12/12
+61	ConceptAnalysis	1200000	Herr Lars Dittrich	Schl¨¹terstra?e 40	10707 Berlin	2006/11/15	2006/11/17
+61	InterpretationAnalysis	1900000	Herr Lars Dittrich	Schl¨¹terstra?e 40	10707 Berlin	2006/11/14	2006/11/20
+61	ComparativeAnalysis	500000	Herr Lars Dittrich	Schl¨¹terstra?e 40	10707 Berlin	2006/10/20	2006/10/23
+61	CaseAnalysis	400000	Herr Lars Dittrich	Schl¨¹terstra?e 40	10707 Berlin	2006/8/29	2006/8/31
+61	FuzzyComprehensiveEvaluation	300000	Herr Lars Dittrich	Schl¨¹terstra?e 40	10707 Berlin	2006/7/21	2006/7/26
+61	BibliometricAnalysis	300000	Herr Lars Dittrich	Schl¨¹terstra?e 40	10707 Berlin	2006/7/21	2006/7/26
+61	ContentAnalysis	100000	Herr Lars Dittrich	Schl¨¹terstra?e 40	10707 Berlin	2006/6/13	2006/6/14
+61	LiteratureAnalysis	800000	Herr Lars Dittrich	Schl¨¹terstra?e 40	10707 Berlin	2006/6/9	2006/6/20
+61	SocialNetworkAnalysis	300000	Herr Lars Dittrich	Schl¨¹terstra?e 40	10707 Berlin	2006/5/8	2006/5/10
+61	OralHistory	400000	Herr Lars Dittrich	Schl¨¹terstra?e 40	10707 Berlin	2006/4/18	2006/4/26
+62	LinkAnalysis	100000	Dr. August Oetker KG	Lutterstra?e 14	33617 Bielefeld?	2006/3/16	2006/4/4
+62	ExperimentResearch	200000	Dr. August Oetker KG	Lutterstra?e 14	33617 Bielefeld?	2006/3/6	2006/3/8
+62	RegressionAnalysis	100000	Dr. August Oetker KG	Lutterstra?e 14	33617 Bielefeld?	2006/2/15	2006/2/20
+62	ClusterAnalysis	300000	Dr. August Oetker KG	Lutterstra?e 14	33617 Bielefeld?	2006/2/14	2006/2/16
+62	TextAnalysis	500000	Dr. August Oetker KG	Lutterstra?e 14	33617 Bielefeld?	2005/12/31	2006/3/13
+62	ModelingMethod	100000	Dr. August Oetker KG	Lutterstra?e 14	33617 Bielefeld?	2005/10/24	2005/10/28
+62	Co-occurrenceAnalysis	500000	Dr. August Oetker KG	Lutterstra?e 14	33617 Bielefeld?	2005/10/4	2005/11/4
+62	ConceptAnalysis	1100000	Dr. August Oetker KG	Lutterstra?e 14	33617 Bielefeld?	2005/9/30	2005/10/14
+62	InterpretationAnalysis	2000000	Dr. August Oetker KG	Lutterstra?e 14	33617 Bielefeld?	2005/9/21	2005/10/7
+62	ComparativeAnalysis	200000	Dr. August Oetker KG	Lutterstra?e 14	33617 Bielefeld?	2005/9/16	2005/9/21
+62	HistoricalAnalysis	200000	Dr. August Oetker KG	Lutterstra?e 14	33617 Bielefeld?	2005/9/16	2005/9/21
+62	CaseAnalysis	500000	Dr. August Oetker KG	Lutterstra?e 14	33617 Bielefeld?	2005/9/9	2005/9/12
+62	BibliometricAnalysis	400000	Dr. August Oetker KG	Lutterstra?e 14	33617 Bielefeld?	2005/9/7	2005/9/16
+62	LiteratureAnalysis	1000000	Dr. August Oetker KG	Lutterstra?e 14	33617 Bielefeld?	2005/9/6	2005/9/7
+62	SocialNetworkAnalysis	200000	Dr. August Oetker KG	Lutterstra?e 14	33617 Bielefeld?	2005/9/6	2005/9/12
+62	OralHistory	100000	Dr. August Oetker KG	Lutterstra?e 14	33617 Bielefeld?	2005/9/6	2005/9/12
+62	QuestionnaireSurvey	300000	Sixt GmbH & Co. Autovermietung KG	Zugspitzstra?e 1	82049 Pullach	2005/9/1	2005/9/6
+62	DelphiMethod	100000	Sixt GmbH & Co. Autovermietung KG	Zugspitzstra?e 1	82049 Pullach	2005/8/19	2005/8/31
+62	ExperimentResearch	300000	Sixt GmbH & Co. Autovermietung KG	Zugspitzstra?e 1	82049 Pullach	2005/8/12	2005/8/12
+62	AnalyticHierarchyProcess	100000	Sixt GmbH & Co. Autovermietung KG	Zugspitzstra?e 1	82049 Pullach	2005/8/11	2005/8/22
+62	TextAnalysis	100000	Sixt GmbH & Co. Autovermietung KG	Zugspitzstra?e 1	82049 Pullach	2005/8/10	2005/8/12
+62	ConceptAnalysis	900000	Sixt GmbH & Co. Autovermietung KG	Zugspitzstra?e 1	82049 Pullach	2005/8/10	2005/8/24
+62	InterpretationAnalysis	2100000	Sixt GmbH & Co. Autovermietung KG	Zugspitzstra?e 1	82049 Pullach	2005/8/8	2005/8/15
+62	ComparativeAnalysis	800000	Sixt GmbH & Co. Autovermietung KG	Zugspitzstra?e 1	82049 Pullach	2005/8/8	2005/8/16
+62	CaseAnalysis	1000000	Sixt GmbH & Co. Autovermietung KG	Zugspitzstra?e 1	82049 Pullach	2005/8/4	2005/8/8
+62	ContentAnalysis	100000	Sixt GmbH & Co. Autovermietung KG	Zugspitzstra?e 1	82049 Pullach	2005/7/27	2005/7/29
+62	LiteratureAnalysis	800000	Sixt GmbH & Co. Autovermietung KG	Zugspitzstra?e 1	82049 Pullach	2005/7/26	2005/7/28
+62	OralHistory	100000	Sixt GmbH & Co. Autovermietung KG	Zugspitzstra?e 1	82049 Pullach	2005/7/19	2005/7/25
+62	QuestionnaireSurvey	100000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2005/7/15	2005/7/20
+62	Interview	100000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2005/7/13	2005/7/15
+62	LinkAnalysis	100000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2005/7/7	2005/7/8
+62	ExperimentResearch	700000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2004/12/21	2004/12/23
+62	RegressionAnalysis	100000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2004/12/20	2004/12/22
+62	ClusterAnalysis	300000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2004/12/7	2004/12/17
+62	AnalyticHierarchyProcess	100000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2004/11/29	2004/12/2
+62	CorrelationAnalysis	100000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2004/8/30	2004/9/7
+62	TextAnalysis	200000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2004/8/4	2004/8/9
+62	ModelingMethod	700000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2004/7/14	2004/7/16
+62	Co-occurrenceAnalysis	400000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2004/6/29	2004/7/1
+62	ConceptAnalysis	1100000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2004/5/18	2004/5/25
+62	InterpretationAnalysis	1400000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2004/5/14	2004/6/17
+62	ComparativeAnalysis	200000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2004/4/15	2004/4/21
+62	HistoricalAnalysis	300000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2004/3/18	2004/3/19
+62	CaseAnalysis	100000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2004/3/18	2004/4/5
+62	FuzzyComprehensiveEvaluation	100000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2004/1/14	2004/1/15
+62	BibliometricAnalysis	200000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2003/12/31	2004/4/1
+62	CitationAnalysis	100000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2003/12/19	2004/1/7
+62	SentimentAnalysis	200000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2003/12/19	2003/12/29
+62	LiteratureAnalysis	900000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2003/12/18	2003/12/19
+62	SocialNetworkAnalysis	500000	Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.	Uerdinger Stra?e 58-62	40474 D¨¹sseldorf	2003/12/17	2004/1/15
+62	QuestionnaireSurvey	200000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2003/12/8	2003/12/11
+62	Interview	200000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2003/12/4	2004/6/22
+62	LinkAnalysis	100000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2003/12/1	2003/12/10
+62	ExperimentResearch	700000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2003/5/29	2003/7/21
+62	AnalyticHierarchyProcess	200000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2003/4/17	2003/4/23
+62	CorrelationAnalysis	200000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2003/4/11	2003/5/8
+62	TextAnalysis	200000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2003/4/10	2003/4/16
+62	ModelingMethod	700000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2003/2/13	2003/2/17
+62	LogAnalysis	200000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2003/2/7	2003/2/13
+62	GroundedTheory	100000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2003/1/30	2003/2/6
+62	ConceptAnalysis	1700000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2003/1/24	2003/1/31
+62	InterpretationAnalysis	1400000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2003/1/24	2003/1/31
+62	ComparativeAnalysis	400000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2003/1/24	2003/1/31
+62	HistoricalAnalysis	100000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2002/12/31	2003/12/29
+62	CaseAnalysis	600000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2002/12/31	2003/8/27
+62	BibliometricAnalysis	100000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2002/12/31	2003/3/26
+62	CitationAnalysis	100000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2002/10/25	2002/11/4
+62	SentimentAnalysis	100000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2002/9/12	2002/9/17
+62	LiteratureAnalysis	600000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2002/9/12	2002/9/17
+62	SocialNetworkAnalysis	100000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2002/9/9	2002/9/17
+62	OralHistory	500000	Patrick Schwarz-Sch¨¹tte	Rotth?user Weg 30	40629 D¨¹sseldorf	2002/9/4	2002/9/17
+62	QuestionnaireSurvey	300000	Fa. R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2002/9/4	2002/9/17
+62	ExperimentResearch	200000	Fa. R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2002/9/4	2002/9/17
+62	FactorAnalysis	100000	Fa. R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2002/8/23	2002/9/3
+62	PrincipalComponentAnalysis	100000	Fa. R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2002/8/15	2002/8/20
+62	AnalyticHierarchyProcess	100000	Fa. R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2002/7/4	2002/7/9
+62	ModelingMethod	400000	Fa. R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2002/7/5	2002/7/10
+62	ConceptAnalysis	1300000	Fa. R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2002/7/8	2002/7/11
+62	InterpretationAnalysis	1200000	Fa. R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2002/7/9	2002/7/12
+62	ComparativeAnalysis	300000	Fa. R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2002/7/10	2002/7/15
+62	HistoricalAnalysis	100000	Fa. R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2002/7/11	2002/7/16
+62	CaseAnalysis	400000	Fa. R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2002/7/12	2002/7/17
+62	FuzzyComprehensiveEvaluation	100000	Fa. R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2002/7/15	2002/7/18
+62	ContentAnalysis	100000	Fa. R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2002/7/16	2002/7/19
+62	LiteratureAnalysis	1100000	Fa. R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2002/7/17	2002/7/22
+62	OralHistory	200000	Fa. R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2002/7/18	2002/7/23
+62	QuestionnaireSurvey	100000	Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2002/7/19	2002/7/24
+62	ExperimentResearch	600000	Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2002/7/22	2002/7/25
+62	ClusterAnalysis	400000	Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2002/7/23	2002/7/26
+62	PrincipalComponentAnalysis	200000	Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2002/7/24	2002/7/29
+62	AnalyticHierarchyProcess	300000	Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2002/7/25	2002/7/30
+62	TextAnalysis	100000	Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2002/7/26	2002/7/31
+62	ModelingMethod	1300000	Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2002/7/29	2002/8/1
+62	ConceptAnalysis	900000	Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2002/7/30	2002/8/2
+62	InterpretationAnalysis	2000000	Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2002/7/31	2002/8/5
+62	ComparativeAnalysis	400000	Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2002/8/1	2002/8/6
+62	HistoricalAnalysis	200000	Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2002/8/2	2002/8/7
+62	CaseAnalysis	100000	Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2002/8/5	2002/8/8
+62	FuzzyComprehensiveEvaluation	200000	Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2002/8/6	2002/8/9
+62	LiteratureAnalysis	300000	Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2002/8/7	2002/8/12
+62	SocialNetworkAnalysis	100000	Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2002/8/8	2002/8/13
+62	OralHistory	200000	Prof. Dr. Hans-Joachim Langmann	Merckstra?e 40	64342 Seeheim-Jugenheim	2002/8/9	2002/8/14
+62	ExperimentResearch	1100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2	1553 K?benhavn V.	2002/8/12	2002/8/15
+62	RegressionAnalysis	1900000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2	1553 K?benhavn V.	2002/8/13	2002/8/16
+62	ClusterAnalysis	300000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2	1553 K?benhavn V.	2002/8/14	2002/8/19
+62	FactorAnalysis	800000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2	1553 K?benhavn V.	2002/8/15	2002/8/20
+62	PrincipalComponentAnalysis	700000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2	1553 K?benhavn V.	2002/8/16	2002/8/21
+62	AnalyticHierarchyProcess	200000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2	1553 K?benhavn V.	2002/8/19	2002/8/22
+62	CorrelationAnalysis	400000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2	1553 K?benhavn V.	2002/8/20	2002/8/23
+62	MachineLearning	100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2	1553 K?benhavn V.	2002/8/21	2002/8/26
+62	ModelingMethod	1200000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2	1553 K?benhavn V.	2002/8/22	2002/8/27
+62	ConceptAnalysis	400000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2	1553 K?benhavn V.	2002/8/23	2002/8/28
+62	InterpretationAnalysis	900000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2	1553 K?benhavn V.	2002/8/26	2002/8/29
+62	ComparativeAnalysis	1300000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2	1553 K?benhavn V.	2002/8/27	2002/8/30
+62	HistoricalAnalysis	100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2	1553 K?benhavn V.	2002/8/28	2002/9/2
+62	BibliometricAnalysis	300000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2	1553 K?benhavn V.	2002/8/29	2002/9/3
+62	LiteratureAnalysis	100000	Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen	¨¹bersetzung: S¨¹dschleswig-Ausschuss/Kulturministerium, Kulturbeh?rde H.C. Andersens Boulevard 2	1553 K?benhavn V.	2002/8/30	2002/9/4
+62	LinkAnalysis	100000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/2	2002/9/5
+62	ExperimentResearch	200000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/3	2002/9/6
+62	RegressionAnalysis	200000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/4	2002/9/9
+62	ClusterAnalysis	500000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/5	2002/9/10
+62	FactorAnalysis	100000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/6	2002/9/11
+62	PrincipalComponentAnalysis	100000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/9	2002/9/12
+62	AnalyticHierarchyProcess	200000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/10	2002/9/13
+62	CorrelationAnalysis	300000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/11	2002/9/16
+62	TextAnalysis	200000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/12	2002/9/17
+62	ModelingMethod	200000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/13	2002/9/18
+62	Co-occurrenceAnalysis	900000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/16	2002/9/19
+62	ConceptAnalysis	1200000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/17	2002/9/20
+62	InterpretationAnalysis	1700000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/18	2002/9/23
+62	ComparativeAnalysis	900000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/19	2002/9/24
+62	HistoricalAnalysis	100000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/20	2002/9/25
+62	CaseAnalysis	100000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/23	2002/9/26
+62	BibliometricAnalysis	800000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/24	2002/9/27
+62	CitationAnalysis	600000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/25	2002/9/30
+62	ContentAnalysis	300000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/26	2002/10/1
+62	LiteratureAnalysis	400000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/27	2002/10/2
+62	SocialNetworkAnalysis	1800000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/9/30	2002/10/3
+62	OralHistory	200000	VHB Grundst¨¹cksverwaltung und Beteiligung GmbH & Co. KG	Kurf¨¹rstendamm 63	10707 Berlin	2002/10/1	2002/10/4
+62	TextAnalysis	100000	Dr. Georg Kofler	Hagrainer Stra?e 15	83700 Rottach-Egern	2002/10/2	2002/10/7
+62	ModelingMethod	400000	Dr. Georg Kofler	Hagrainer Stra?e 15	83700 Rottach-Egern	2002/10/3	2002/10/8
+62	Co-occurrenceAnalysis	100000	Dr. Georg Kofler	Hagrainer Stra?e 15	83700 Rottach-Egern	2002/10/4	2002/10/9
+62	ConceptAnalysis	2800000	Dr. Georg Kofler	Hagrainer Stra?e 15	83700 Rottach-Egern	2002/10/7	2002/10/10
+62	InterpretationAnalysis	2300000	Dr. Georg Kofler	Hagrainer Stra?e 15	83700 Rottach-Egern	2002/10/8	2002/10/11
+62	ComparativeAnalysis	500000	Dr. Georg Kofler	Hagrainer Stra?e 15	83700 Rottach-Egern	2002/10/9	2002/10/14
+62	CaseAnalysis	200000	Dr. Georg Kofler	Hagrainer Stra?e 15	83700 Rottach-Egern	2002/10/10	2002/10/15
+62	BibliometricAnalysis	200000	Dr. Georg Kofler	Hagrainer Stra?e 15	83700 Rottach-Egern	2002/10/11	2002/10/16
+62	LiteratureAnalysis	500000	Dr. Georg Kofler	Hagrainer Stra?e 15	83700 Rottach-Egern	2002/10/14	2002/10/17
+62	SocialNetworkAnalysis	200000	Dr. Georg Kofler	Hagrainer Stra?e 15	83700 Rottach-Egern	2002/10/15	2002/10/18
+62	OralHistory	200000	Dr. Georg Kofler	Hagrainer Stra?e 15	83700 Rottach-Egern	2002/10/16	2002/10/21
+70	QuestionnaireSurvey	800000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/10/17	2002/10/22
+70	Interview	200000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/10/18	2002/10/23
+70	LinkAnalysis	100000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/10/21	2002/10/24
+70	ExperimentResearch	100000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/10/22	2002/10/25
+70	RegressionAnalysis	200000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/10/23	2002/10/28
+70	FactorAnalysis	200000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/10/24	2002/10/29
+70	AnalyticHierarchyProcess	100000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/10/25	2002/10/30
+70	CorrelationAnalysis	300000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/10/28	2002/10/31
+70	TextAnalysis	100000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/10/29	2002/11/1
+70	ModelingMethod	1100000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/10/30	2002/11/4
+70	ConceptAnalysis	1100000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/10/31	2002/11/5
+70	InterpretationAnalysis	2200000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/11/1	2002/11/6
+70	ComparativeAnalysis	400000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/11/4	2002/11/7
+70	CaseAnalysis	100000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/11/5	2002/11/8
+70	FuzzyComprehensiveEvaluation	100000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/11/6	2002/11/11
+70	ContentAnalysis	100000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/11/7	2002/11/12
+70	SentimentAnalysis	100000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/11/8	2002/11/13
+70	LiteratureAnalysis	600000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/11/11	2002/11/14
+70	SocialNetworkAnalysis	100000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/11/12	2002/11/15
+70	OralHistory	100000	Ralph Dommermuth	Friedensstra?e 4	56410 Montabaur	2002/11/13	2002/11/18
+70	QuestionnaireSurvey	200000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/11/14	2002/11/19
+70	Interview	100000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/11/15	2002/11/20
+70	DelphiMethod	100000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/11/18	2002/11/21
+70	ExperimentResearch	200000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/11/19	2002/11/22
+70	FactorAnalysis	100000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/11/20	2002/11/25
+70	PrincipalComponentAnalysis	100000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/11/21	2002/11/26
+70	AnalyticHierarchyProcess	100000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/11/22	2002/11/27
+70	CorrelationAnalysis	100000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/11/25	2002/11/28
+70	ModelingMethod	1000000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/11/26	2002/11/29
+70	GroundedTheory	100000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/11/27	2002/12/2
+70	ConceptAnalysis	700000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/11/28	2002/12/3
+70	InterpretationAnalysis	1200000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/11/29	2002/12/4
+70	ComparativeAnalysis	300000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/12/2	2002/12/5
+70	HistoricalAnalysis	300000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/12/3	2002/12/6
+70	FuzzyComprehensiveEvaluation	100000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/12/4	2002/12/9
+70	BibliometricAnalysis	300000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/12/5	2002/12/10
+70	CitationAnalysis	300000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/12/6	2002/12/11
+70	LiteratureAnalysis	500000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/12/9	2002/12/12
+70	SocialNetworkAnalysis	300000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/12/10	2002/12/13
+70	OralHistory	100000	Prof. Hans-Georg N?der	Am Weinberg 2	37115 Duderstadt	2002/12/11	2002/12/16
+70	Interview	100000	Frank Hansen	Neum?uerstra?e 39/2	74523 Schw?bisch Hall	2002/12/12	2002/12/17
+70	ExperimentResearch	700000	Frank Hansen	Neum?uerstra?e 39/2	74523 Schw?bisch Hall	2002/12/13	2002/12/18
+70	RegressionAnalysis	100000	Frank Hansen	Neum?uerstra?e 39/2	74523 Schw?bisch Hall	2002/12/16	2002/12/19
+70	ClusterAnalysis	100000	Frank Hansen	Neum?uerstra?e 39/2	74523 Schw?bisch Hall	2002/12/17	2002/12/20
+70	TextAnalysis	400000	Frank Hansen	Neum?uerstra?e 39/2	74523 Schw?bisch Hall	2002/12/18	2002/12/23
+70	ModelingMethod	600000	Frank Hansen	Neum?uerstra?e 39/2	74523 Schw?bisch Hall	2002/12/19	2002/12/24
+70	Co-occurrenceAnalysis	100000	Frank Hansen	Neum?uerstra?e 39/2	74523 Schw?bisch Hall	2002/12/20	2002/12/25
+70	ConceptAnalysis	1600000	Frank Hansen	Neum?uerstra?e 39/2	74523 Schw?bisch Hall	2002/12/23	2002/12/26
+70	InterpretationAnalysis	1800000	Frank Hansen	Neum?uerstra?e 39/2	74523 Schw?bisch Hall	2002/12/24	2002/12/27
+70	ComparativeAnalysis	1200000	Frank Hansen	Neum?uerstra?e 39/2	74523 Schw?bisch Hall	2002/12/25	2002/12/30
+70	CaseAnalysis	100000	Frank Hansen	Neum?uerstra?e 39/2	74523 Schw?bisch Hall	2002/12/26	2002/12/31
+70	ContentAnalysis	100000	Frank Hansen	Neum?uerstra?e 39/2	74523 Schw?bisch Hall	2002/12/27	2003/1/1
+70	LiteratureAnalysis	200000	Frank Hansen	Neum?uerstra?e 39/2	74523 Schw?bisch Hall	2002/12/30	2003/1/2
+70	SocialNetworkAnalysis	100000	Frank Hansen	Neum?uerstra?e 39/2	74523 Schw?bisch Hall	2002/12/31	2003/1/3
+70	OralHistory	100000	Frank Hansen	Neum?uerstra?e 39/2	74523 Schw?bisch Hall	2003/1/1	2003/1/6
+70	LinkAnalysis	100000	TRUMPF GmbH + Co. KG	Johann-Maus-Stra?e 2	71254 Ditzingen	2003/1/2	2003/1/7
+70	ConceptAnalysis	900000	TRUMPF GmbH + Co. KG	Johann-Maus-Stra?e 2	71254 Ditzingen	2003/1/3	2003/1/8
+70	InterpretationAnalysis	800000	TRUMPF GmbH + Co. KG	Johann-Maus-Stra?e 2	71254 Ditzingen	2003/1/6	2003/1/9
+70	HistoricalAnalysis	100000	TRUMPF GmbH + Co. KG	Johann-Maus-Stra?e 2	71254 Ditzingen	2003/1/7	2003/1/10
+70	CaseAnalysis	400000	TRUMPF GmbH + Co. KG	Johann-Maus-Stra?e 2	71254 Ditzingen	2003/1/8	2003/1/13
+70	LiteratureAnalysis	100000	TRUMPF GmbH + Co. KG	Johann-Maus-Stra?e 2	71254 Ditzingen	2003/1/9	2003/1/14
+70	OralHistory	200000	TRUMPF GmbH + Co. KG	Johann-Maus-Stra?e 2	71254 Ditzingen	2003/1/10	2003/1/15
+70	QuestionnaireSurvey	400000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/1/13	2003/1/16
+70	Interview	100000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/1/14	2003/1/17
+70	DelphiMethod	200000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/1/15	2003/1/20
+70	ExperimentResearch	200000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/1/16	2003/1/21
+70	RegressionAnalysis	400000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/1/17	2003/1/22
+70	FactorAnalysis	100000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/1/20	2003/1/23
+70	AnalyticHierarchyProcess	400000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/1/21	2003/1/24
+70	TextAnalysis	100000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/1/22	2003/1/27
+70	ModelingMethod	900000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/1/23	2003/1/28
+70	Co-occurrenceAnalysis	100000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/1/24	2003/1/29
+70	GroundedTheory	100000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/1/27	2003/1/30
+70	ConceptAnalysis	1100000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/1/28	2003/1/31
+70	InterpretationAnalysis	1400000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/1/29	2003/2/3
+70	ComparativeAnalysis	1300000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/1/30	2003/2/4
+70	HistoricalAnalysis	100000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/1/31	2003/2/5
+70	CaseAnalysis	300000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/2/3	2003/2/6
+70	FuzzyComprehensiveEvaluation	200000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/2/4	2003/2/7
+70	ContentAnalysis	200000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/2/5	2003/2/10
+70	LiteratureAnalysis	700000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/2/6	2003/2/11
+70	SocialNetworkAnalysis	200000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/2/7	2003/2/12
+70	OralHistory	200000	R+W Industriebeteiligungen GmbH	Lindenallee 78	50968 K?ln	2003/2/10	2003/2/13
+70	AnalyticHierarchyProcess	100000	Firma Dr. Theiss Naturwaren GmbH	Michelinstra?e 10	66424 Homburg	2003/2/11	2003/2/14
+70	ConceptAnalysis	2200000	Firma Dr. Theiss Naturwaren GmbH	Michelinstra?e 10	66424 Homburg	2003/2/12	2003/2/17
+70	InterpretationAnalysis	1900000	Firma Dr. Theiss Naturwaren GmbH	Michelinstra?e 10	66424 Homburg	2003/2/13	2003/2/18
+70	ComparativeAnalysis	500000	Firma Dr. Theiss Naturwaren GmbH	Michelinstra?e 10	66424 Homburg	2003/2/14	2003/2/19
+70	HistoricalAnalysis	300000	Firma Dr. Theiss Naturwaren GmbH	Michelinstra?e 10	66424 Homburg	2003/2/17	2003/2/20
+70	BibliometricAnalysis	100000	Firma Dr. Theiss Naturwaren GmbH	Michelinstra?e 10	66424 Homburg	2003/2/18	2003/2/21
+70	CitationAnalysis	100000	Firma Dr. Theiss Naturwaren GmbH	Michelinstra?e 10	66424 Homburg	2003/2/19	2003/2/24
+70	LiteratureAnalysis	700000	Firma Dr. Theiss Naturwaren GmbH	Michelinstra?e 10	66424 Homburg	2003/2/20	2003/2/25
+70	PatentAnalysis	100000	Firma Dr. Theiss Naturwaren GmbH	Michelinstra?e 10	66424 Homburg	2003/2/21	2003/2/26
+70	OralHistory	300000	Firma Dr. Theiss Naturwaren GmbH	Michelinstra?e 10	66424 Homburg	2003/2/24	2003/2/27
+70	QuestionnaireSurvey	600000	Hans Horst Grosspeter	Steyrer Weg 6	50858 K?ln	2003/2/25	2003/2/28
+70	ExperimentResearch	500000	Hans Horst Grosspeter	Steyrer Weg 6	50858 K?ln	2003/2/26	2003/3/3
+70	CorrelationAnalysis	100000	Hans Horst Grosspeter	Steyrer Weg 6	50858 K?ln	2003/2/27	2003/3/4
+70	ConceptAnalysis	500000	Hans Horst Grosspeter	Steyrer Weg 6	50858 K?ln	2003/2/28	2003/3/5
+70	InterpretationAnalysis	600000	Hans Horst Grosspeter	Steyrer Weg 6	50858 K?ln	2003/3/3	2003/3/6
+70	CaseAnalysis	300000	Hans Horst Grosspeter	Steyrer Weg 6	50858 K?ln	2003/3/4	2003/3/7
+70	FuzzyComprehensiveEvaluation	200000	Hans Horst Grosspeter	Steyrer Weg 6	50858 K?ln	2003/3/5	2003/3/10
+70	LiteratureAnalysis	100000	Hans Horst Grosspeter	Steyrer Weg 6	50858 K?ln	2003/3/6	2003/3/11
+70	SocialNetworkAnalysis	300000	Hans Horst Grosspeter	Steyrer Weg 6	50858 K?ln	2003/3/7	2003/3/12
+70	PatentAnalysis	100000	Hans Horst Grosspeter	Steyrer Weg 6	50858 K?ln	2003/3/10	2003/3/13
+70	ConceptAnalysis	1400000	Dr. Georg Jakob Kofler	An Hagrainer Stra?e 15	83700 Rottach-Egern	2003/3/11	2003/3/14
+70	InterpretationAnalysis	2800000	Dr. Georg Jakob Kofler	An Hagrainer Stra?e 15	83700 Rottach-Egern	2003/3/12	2003/3/17
+70	ComparativeAnalysis	100000	Dr. Georg Jakob Kofler	An Hagrainer Stra?e 15	83700 Rottach-Egern	2003/3/13	2003/3/18
+70	HistoricalAnalysis	700000	Dr. Georg Jakob Kofler	An Hagrainer Stra?e 15	83700 Rottach-Egern	2003/3/14	2003/3/19
+70	CaseAnalysis	100000	Dr. Georg Jakob Kofler	An Hagrainer Stra?e 15	83700 Rottach-Egern	2003/3/17	2003/3/20
+70	LiteratureAnalysis	700000	Dr. Georg Jakob Kofler	An Hagrainer Stra?e 15	83700 Rottach-Egern	2003/3/18	2003/3/21
+70	OralHistory	400000	Dr. Georg Jakob Kofler	An Hagrainer Stra?e 15	83700 Rottach-Egern	2003/3/19	2003/3/24
+70	LinkAnalysis	100000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/3/20	2003/3/25
+70	DelphiMethod	100000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/3/21	2003/3/26
+70	ExperimentResearch	600000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/3/24	2003/3/27
+70	ClusterAnalysis	200000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/3/25	2003/3/28
+70	CorrelationAnalysis	100000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/3/26	2003/3/31
+70	TextAnalysis	700000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/3/27	2003/4/1
+70	MachineLearning	100000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/3/28	2003/4/2
+70	ModelingMethod	1000000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/3/31	2003/4/3
+70	Co-occurrenceAnalysis	100000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/4/1	2003/4/4
+70	ConceptAnalysis	800000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/4/2	2003/4/7
+70	InterpretationAnalysis	1400000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/4/3	2003/4/8
+70	ComparativeAnalysis	800000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/4/4	2003/4/9
+70	CaseAnalysis	400000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/4/7	2003/4/10
+70	FuzzyComprehensiveEvaluation	100000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/4/8	2003/4/11
+70	BibliometricAnalysis	300000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/4/9	2003/4/14
+70	CitationAnalysis	500000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/4/10	2003/4/15
+70	SentimentAnalysis	300000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/4/11	2003/4/16
+70	LiteratureAnalysis	700000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/4/14	2003/4/17
+70	SocialNetworkAnalysis	500000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/4/15	2003/4/18
+70	PatentAnalysis	100000	Herr Alexander Mecking	Bertha-von-Suttner-Stra?e 18	65189 Wiesbaden	2003/4/16	2003/4/21
+80	ModelingMethod	100000	Dr. Arend Oetker	Bismarckallee 22	14193 Berlin	2003/4/17	2003/4/22
+80	ConceptAnalysis	200000	Dr. Arend Oetker	Bismarckallee 22	14193 Berlin	2003/4/18	2003/4/23
+80	InterpretationAnalysis	400000	Dr. Arend Oetker	Bismarckallee 22	14193 Berlin	2003/4/21	2003/4/24
+80	HistoricalAnalysis	100000	Dr. Arend Oetker	Bismarckallee 22	14193 Berlin	2003/4/22	2003/4/25
+80	CaseAnalysis	100000	Dr. Arend Oetker	Bismarckallee 22	14193 Berlin	2003/4/23	2003/4/28
+80	ContentAnalysis	200000	Dr. Arend Oetker	Bismarckallee 22	14193 Berlin	2003/4/24	2003/4/29
+80	LiteratureAnalysis	300000	Dr. Arend Oetker	Bismarckallee 22	14193 Berlin	2003/4/25	2003/4/30
+80	ConceptAnalysis	300000	Herr Christoph Alexander Kahl	Pferdmengesstra?e 3	50968 K?ln	2003/4/28	2003/5/1
+80	InterpretationAnalysis	1700000	Herr Christoph Alexander Kahl	Pferdmengesstra?e 3	50968 K?ln	2003/4/29	2003/5/2
+80	ComparativeAnalysis	400000	Herr Christoph Alexander Kahl	Pferdmengesstra?e 3	50968 K?ln	2003/4/30	2003/5/5
+80	LiteratureAnalysis	100000	Herr Christoph Alexander Kahl	Pferdmengesstra?e 3	50968 K?ln	2003/5/1	2003/5/6
+80	PatentAnalysis	100000	Herr Christoph Alexander Kahl	Pferdmengesstra?e 3	50968 K?ln	2003/5/2	2003/5/7
+80	QuestionnaireSurvey	600000	Dr. Lutz Helmig	Am Esch 10	36355 Grebenhain-Bermuthshain	2003/5/5	2003/5/8
+80	Interview	100000	Dr. Lutz Helmig	Am Esch 10	36355 Grebenhain-Bermuthshain	2003/5/6	2003/5/9
+80	LinkAnalysis	100000	Dr. Lutz Helmig	Am Esch 10	36355 Grebenhain-Bermuthshain	2003/5/7	2003/5/12
+80	ExperimentResearch	100000	Dr. Lutz Helmig	Am Esch 10	36355 Grebenhain-Bermuthshain	2003/5/8	2003/5/13
+80	RegressionAnalysis	200000	Dr. Lutz Helmig	Am Esch 10	36355 Grebenhain-Bermuthshain	2003/5/9	2003/5/14
+80	FactorAnalysis	200000	Dr. Lutz Helmig	Am Esch 10	36355 Grebenhain-Bermuthshain	2003/5/12	2003/5/15
+80	AnalyticHierarchyProcess	300000	Dr. Lutz Helmig	Am Esch 10	36355 Grebenhain-Bermuthshain	2003/5/13	2003/5/16
+80	CorrelationAnalysis	200000	Dr. Lutz Helmig	Am Esch 10	36355 Grebenhain-Bermuthshain	2003/5/14	2003/5/19
+80	TextAnalysis	300000	Dr. Lutz Helmig	Am Esch 10	36355 Grebenhain-Bermuthshain	2003/5/15	2003/5/20
+80	ModelingMethod	1200000	Dr. Lutz Helmig	Am Esch 10	36355 Grebenhain-Bermuthshain	2003/5/16	2003/5/21
+80	GroundedTheory	100000	Dr. Lutz Helmig	Am Esch 10	36355 Grebenhain-Bermuthshain	2003/5/19	2003/5/22
+80	ConceptAnalysis	500000	Dr. Lutz Helmig	Am Esch 10	36355 Grebenhain-Bermuthshain	2003/5/20	2003/5/23
+80	InterpretationAnalysis	500000	Dr. Lutz Helmig	Am Esch 10	36355 Grebenhain-Bermuthshain	2003/5/21	2003/5/26
+80	ComparativeAnalysis	300000	Dr. Lutz Helmig	Am Esch 10	36355 Grebenhain-Bermuthshain	2003/5/22	2003/5/27
+80	FuzzyComprehensiveEvaluation	200000	Dr. Lutz Helmig	Am Esch 10	36355 Grebenhain-Bermuthshain	2003/5/23	2003/5/28
+80	SocialNetworkAnalysis	300000	Dr. Lutz Helmig	Am Esch 10	36355 Grebenhain-Bermuthshain	2003/5/26	2003/5/29
+80	ExperimentResearch	400000	Sydslesvigudvalget/	Undervisningsministeriet	¨¹bersetzung:	2003/5/27	2003/5/30
+80	TextAnalysis	100000	Sydslesvigudvalget/	Undervisningsministeriet	¨¹bersetzung:	2003/5/28	2003/6/2
+80	ModelingMethod	500000	Sydslesvigudvalget/	Undervisningsministeriet	¨¹bersetzung:	2003/5/29	2003/6/3
+80	Co-occurrenceAnalysis	100000	Sydslesvigudvalget/	Undervisningsministeriet	¨¹bersetzung:	2003/5/30	2003/6/4
+80	ConceptAnalysis	900000	Sydslesvigudvalget/	Undervisningsministeriet	¨¹bersetzung:	2003/6/2	2003/6/5
+80	InterpretationAnalysis	1600000	Sydslesvigudvalget/	Undervisningsministeriet	¨¹bersetzung:	2003/6/3	2003/6/6
+80	ComparativeAnalysis	400000	Sydslesvigudvalget/	Undervisningsministeriet	¨¹bersetzung:	2003/6/4	2003/6/9
+80	HistoricalAnalysis	100000	Sydslesvigudvalget/	Undervisningsministeriet	¨¹bersetzung:	2003/6/5	2003/6/10
+80	CaseAnalysis	200000	Sydslesvigudvalget/	Undervisningsministeriet	¨¹bersetzung:	2003/6/6	2003/6/11
+80	BibliometricAnalysis	200000	Sydslesvigudvalget/	Undervisningsministeriet	¨¹bersetzung:	2003/6/9	2003/6/12
+80	ContentAnalysis	100000	Sydslesvigudvalget/	Undervisningsministeriet	¨¹bersetzung:	2003/6/10	2003/6/13
+80	SentimentAnalysis	100000	Sydslesvigudvalget/	Undervisningsministeriet	¨¹bersetzung:	2003/6/11	2003/6/16
+80	LiteratureAnalysis	700000	Sydslesvigudvalget/	Undervisningsministeriet	¨¹bersetzung:	2003/6/12	2003/6/17
